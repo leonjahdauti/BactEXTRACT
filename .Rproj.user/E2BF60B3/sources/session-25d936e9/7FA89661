@@ -3,7 +3,7 @@
     "path": "~/GitHub/BactEXTRACT/App.R",
     "project_path": "App.R",
     "type": "r_source",
-    "hash": "1341105399",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1744966293714.0,
@@ -11,7 +11,9 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "13,24",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1744966229,
